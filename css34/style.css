@@ -1,0 +1,40 @@
+.block {
+font-family: "Open Sans", sans-serif;;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+}
+
+.line {
+font-family: "Open Sans", sans-serif;;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+text-decoration: line-through;
+}
+.big {
+font-family: "Open Sans", sans-serif;;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+text-transform: uppercase;
+text-align: center;
+}
+.wave {
+    word-spacing: 30px;
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    text-decoration-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 0px 0 #e97feb;
+
+}
+
+.two {
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 5px;
+text-decoration-line: underline;
+text-decoration-style: double;
+}
