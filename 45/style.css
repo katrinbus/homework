@@ -1,0 +1,23 @@
+.parent {
+    overflow:scroll;
+    background: #f3f2fc;
+    width: 1400px;
+    height: 650px;
+    border: 10px;
+    border-color: black;
+    border: 1px solid;
+    border-bottom-left-radius: 3%;
+    border-top-left-radius: 3%;
+}
+
+.child {
+    font-family: "Open Sans", sans-serif;
+    width: 255px;
+    height: 200px;
+    background: #bba781;
+    display: inline-block;
+    padding: 25px;
+    border-radius: 20%;
+    margin: 10px;
+    box-shadow: inset 0 0 10px;
+}
